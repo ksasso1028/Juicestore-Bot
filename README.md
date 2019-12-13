@@ -13,14 +13,17 @@ Then of course fill in all of your credentials for each auto fill field.
 ### Prerequisites
 
 You will  need to have python 3+ installed. 
+
 Install selenium via pip -- pip install selenium
+
 Install Twilio via pip -- pip install twilio
+
 You will need to configure the account ID and token with your own Twilio credentials in the constructor of the Bot class
 
 
 ### Installing
 
-Ensure you have all required libraries+ credentials and keywords and launch! s
+Ensure you have all required libraries+ credentials and keywords and launch! 
 ## Deployment
 
 Sit back and watch the bot display all products on the page and look for your product! No need to keep refreshing the site wasting your life
