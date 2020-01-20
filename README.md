@@ -23,6 +23,7 @@ You will need to configure the account ID and token with your own Twilio credent
 ### CONFIGURATION
 Make sure you enter your twilio details into your bot constructor and uncomment self.client. 
 On line 60 you will uncomment the text message portion and replace "from" with your twilio number.
+ADJUST YOUR MONITOR REFRESH RATE, line 73. 
 
 
 In the monitor function you can replace the URL in the first line if you would like(only works on juicestore and will only buy shoes at the moment)
